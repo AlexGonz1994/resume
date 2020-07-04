@@ -1,0 +1,28 @@
+.mainpage {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  margin-left: 25%;
+}
+
+.navbar {
+  margin: 20px auto;
+  width: 50%;
+}
+
+.contactPage {
+  width: 30%;
+  margin-left: 35%;
+}
+
+.cards {
+  width: 35%;
+  display: flex;
+  align-items: center;
+  margin-left: 33%;
+  margin-top: 10px;
+}
+
+.background {
+  background-image: url("./img/lighthouse-1532771.jpg");
+}
