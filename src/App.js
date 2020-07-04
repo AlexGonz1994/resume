@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="background">
       <NavBar />
-      <Route exact path="https://alexresume.netlify.app/">
+      <Route exact path="/">
         <MainPage />
       </Route>
       <Route path="/about">
